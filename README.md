@@ -23,13 +23,13 @@ El proyecto cuenta con un archivo **Dockerfile** para la creación de la imagen 
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 - [Autores](#autores)
 
-
+https://proyecto-integrador-bestias-binarias.vercel.app/
 ## Demo
-Si desea ver el proyecto funcionando, puede hacerlo visitando [este enlace](https://github.com/CodeSystem2022/Proyecto-Integrador-Bestias-Binarias), que lo llevará a un deploy realizado en la plataforma [**Vercel.app**](https://vercel.app), debido a que provee una capa gratuita de implementación de proyectos y un servicio de entrega continua al integrarse con este repositorio de Github.
+Si desea ver el proyecto funcionando, puede hacerlo visitando [este enlace](), que lo llevará a un deploy realizado en la plataforma [**Vercel.app**](https://vercel.app), debido a que provee una capa gratuita de implementación de proyectos y un servicio de entrega continua al integrarse con este repositorio de Github.
 ## Instalación con Dockerfile
 ### Clonar el repositorio
 ```bash
-git clone
+git clone https://github.com/CodeSystem2022/Proyecto-Integrador-Bestias-Binarias.git
 ```
 
 ### Configurar dockerfile
