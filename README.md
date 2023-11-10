@@ -110,6 +110,5 @@ npm start
 -
 -
 -
-- Gabriel Romero. [Github]
-- https://github.com/gabrielromero0
+- Gabriel Romero. [Github](https://github.com/gabrielromero0)
 
