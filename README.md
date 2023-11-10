@@ -98,7 +98,7 @@ npm start
 
 ## Autores
 - Nicolás Muros. [Github](https://github.com/nicomuros) [LinkedIn](https://www.linkedin.com/in/npmuros/)
--
+- Mariana Cervantes. [Github](https://github.com/MitaCervantes) [LinkedIn](https://www.linkedin.com/in/mita-cervantes/)
 -
 -
 -
