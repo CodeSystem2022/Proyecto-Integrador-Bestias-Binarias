@@ -107,6 +107,6 @@ npm start
 -
 - Nahuel Tapia. [Github](https://github.com/NahuelTapia)
 - Florencia Ortega. [Github](https://github.com/FlorenciaOrtega82)
--
+- Albano Calamara https://www.linkedin.com/in/albano-calamara-0122691a2/ https://github.com/Albanoo09
 - Gabriel Romero. [Github](https://github.com/gabrielromero0)
 
