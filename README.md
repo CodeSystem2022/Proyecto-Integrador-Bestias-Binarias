@@ -105,8 +105,7 @@ npm start
 -
 - Fernando Silva. [Github](https://github.com/FernandoSilva12)
 -
--
--
+- Nahuel Tapia. [Github](https://github.com/NahuelTapia)
 -
 -
 - Gabriel Romero. [Github](https://github.com/gabrielromero0)
