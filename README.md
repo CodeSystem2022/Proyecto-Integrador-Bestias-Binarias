@@ -99,11 +99,9 @@ npm start
 - Nicolás Muros. [Github](https://github.com/nicomuros) [LinkedIn](https://www.linkedin.com/in/npmuros/)
 - Mariana Cervantes. [Github](https://github.com/MitaCervantes) [LinkedIn](https://www.linkedin.com/in/mita-cervantes/)
 - Daniel Guerrero. [Github](https://github.com/DanielGuerrero03) [LinkedIn](https://www.linkedin.com/in/daniel-alejandro-guerrero-400831a0/) 
--
--
 - Fernando Silva. [Github](https://github.com/FernandoSilva12)
 - Nahuel Tapia. [Github](https://github.com/NahuelTapia)
 - Florencia Ortega. [Github](https://github.com/FlorenciaOrtega82)
 - Albano Calamara [Github](https://github.com/Albanoo09) [LinkedIn](https://www.linkedin.com/in/albano-calamara-0122691a2/) 
 - Gabriel Romero. [Github](https://github.com/gabrielromero0)
-
+- David Mato. [Github](https://github.com/MCDavid1972) [LinkedIn](https://www.linkedin.com/in/david-mato-tec1972)
