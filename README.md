@@ -105,3 +105,4 @@ npm start
 - Albano Calamara [Github](https://github.com/Albanoo09) [LinkedIn](https://www.linkedin.com/in/albano-calamara-0122691a2/) 
 - Gabriel Romero. [Github](https://github.com/gabrielromero0)
 - David Mato. [Github](https://github.com/MCDavid1972) [LinkedIn](https://www.linkedin.com/in/david-mato-tec1972)
+- Daiana Escudero [Github](https://github.com/DaianaEscudero) [LinkedIn](https://www.linkedin.com/in/daianaescudero/)
